@@ -1,0 +1,14 @@
+#Ignorar imagenes
+*.jpg
+*.png
+*.jpeg
+*.webp
+
+#Ignorar videos
+*.mp4
+
+#Ignorar audio
+*.mp3
+
+#JSON 
+*.json
