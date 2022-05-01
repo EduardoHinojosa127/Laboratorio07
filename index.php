@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Sistema de logueo y registro</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="css/styles.css">
   </head>
   <body>
     <?php require 'partials/header.php' ?>
